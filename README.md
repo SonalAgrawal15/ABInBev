@@ -1,3 +1,10 @@
 # ABInBev
-Stock Balancing_GAC Problem Case
-Develop an optimization algorithm for stock distribution between breweries and depots so as to maintain a balanced inventory in all the depots in a region/country.
+**Problem Statement:** Build an algorithm to optimize the stock distribution between depots and breweries so as to maintain a balanced inventory in all the depots in a region/country.
+
+# Case study: 
+In a manufacturing business setup inventory management plays a crucial role in determining the company's profitability. While having a shortage in inventory can lead to loss in revenue and customer dissatisfaction, having excess inventory can lead to increase in cost of storage and expiry of stock. Once our beers are brewed and packed in our breweries, they are transported to warehouses/depots from where they reach the stores where the end user purchases. ABI being the largest beer manufacturer will have multiple breweries in a country to cater to the demand of beer and each brewery caters to the needs of a set of depots to which it supplies beer. Each depot in turn will have its own storage capacity, area of distribution, current inventory and a set of customers(stores) to which it supplies. In an ideal scenario we would want all our depots to have a balanced stock to cater to the demand of customers. However, it may so happen that one depot might be struggling with out of stock for a particular brand of beer and another depot might have excess stock for the same brand of beer. We would like you to build an intelligent system which will recommend a best case plan to distribute the stock from breweries to different depots based on various factors(current inventory, storage capacity, customer orders etc.) to maintain a balanced inventory across all the depots in a region/country. 
+
+# Problem:
+How it impacts or helps the business and why are we solving it?
+Out of stock is not a good scenario to be in for any business where a customer is ready to buy specific items or products at the point of purchase but there is no 
+availability of the product. This leads to loss in revenue for the business. Also having excess inventory of products at any depots is also not good as it might lead to the stock reaching expiry and wastage of stock . Thus, it is very important to maintain a balanced inventory of stock at all the depots.
